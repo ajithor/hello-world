@@ -1,2 +1,3 @@
 # hello-world
-Storage of stormed stupid ideas
+Storage of stormed stupid ideas;
+And rarely some brilliant ones.
