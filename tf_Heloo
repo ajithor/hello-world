@@ -1,0 +1,4 @@
+import tensorflow as tf
+h=tf.constant("Hello World!")
+with sess as tf.Session():
+	print(sess(h))
